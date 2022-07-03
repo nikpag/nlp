@@ -1,0 +1,83 @@
+### 1 ###
+Original: [
+    '05', 'Beat', 'it', '-', 'Michael', 'Jackson', '-', 'Thriller', '(',
+    '25th', 'Anniversary', 'Edition', ')', '[', 'HD', ']', 'http', ':',
+    '//t.co/A4K2B86PBv'
+]
+Encoded: [ 
+     17261 400001     21     12 400001 400001     12 400001     24   8962
+    400001 400001     25   2824 400001   5281  33162     46 400001      0
+         0      0      0      0      0      0      0      0      0      0
+         0      0      0      0      0      0      0      0      0      0
+         0      0      0      0      0
+]
+Label: 1
+True length: 19
+
+### 2 ###
+Original: [
+    'Jay', 'Z', 'joins', 'Instagram', 'with', 'nostalgic', 'tribute', 
+    'to', 'Michael', 'Jackson', ':', 'Jay', 'Z', 'apparently', 'joined',
+    'Instagram', 'on', 'Saturday', 'and', '..', 'http', ':', 
+    '//t.co/Qj9I4eCvXy'
+]
+Encoded: [
+    400001 400001   7698 400001     18  20557   5079      5 400001 400001
+        46 400001 400001   1897   1031 400001     14 400001      6 400001
+     33162     46 400001      0      0      0      0      0      0      0
+         0      0      0      0      0      0      0      0      0      0
+         0      0      0      0      0
+]
+Label: 2
+True length: 23
+
+### 3 ###
+Original: [
+    'Michael', 'Jackson', ':', 'Bad', '25th', 'Anniversary', 'Edition', 
+    '(', 'Picture', 'Vinyl', ')', ':', 'This', 'unique', 'picture', 
+    'disc', 'vinyl', 'includes', 'the', 'original', '1', 'http', ':', 
+    '//t.co/fKXhToAAuW'
+]
+Encoded: [
+    400001 400001     46 400001   8962 400001 400001     24 400001 400001
+        25     46 400001   3007   1836   5977  11193   1013      1    930
+       177  33162     46 400001      0      0      0      0      0      0
+         0      0      0      0      0      0      0      0      0      0
+         0      0      0      0      0
+]
+Label: 1
+True length: 24
+
+### 4 ###
+Original: [
+    'I', 'liked', 'a', '@', 'YouTube', 'video', 'http', ':', 
+    '//t.co/AaR3pjp2PI', 'One', 'Direction', 'singing', '``', 'Man', 
+    'in', 'the', 'Mirror', "''", 'by', 'Michael', 'Jackson', 'in', 
+    'Atlanta', ',', 'GA', '[', 'June', '26', ','
+]
+Encoded: [
+    400001   5573      8  17528 400001    975  33162     46 400001 400001
+    400001   4100     29 400001      7      1 400001     28     22 400001
+    400001      7 400001      2 400001   2824 400001   1077      2      0
+         0      0      0      0      0      0      0      0      0      0
+         0      0      0      0      0
+]
+Label: 2
+True length: 29
+
+### 5 ###
+Original: [
+    '18th', 'anniv', 'of', 'Princess', 'Diana', "'s", 'death', '.', 'I', 
+    'still', 'want', 'to', 'believe', 'she', 'is', 'living', 'on', 'a', 
+    'private', 'island', 'away', 'from', 'the', 'public', '.', 'With', 
+    'Michael', 'Jackson', '.'
+]
+Encoded: [
+      4014 400001      4 400001 400001     10    337      3 400001    150
+       304      5    734     68     15    757     14      8    673    584
+       421     26      1    199      3 400001 400001 400001      3      0
+         0      0      0      0      0      0      0      0      0      0
+         0      0      0      0      0
+]
+Label: 2
+True length: 29

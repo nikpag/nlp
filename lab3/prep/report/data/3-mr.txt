@@ -1,0 +1,82 @@
+### 1 ###
+Original: [
+    'the', 'rock', 'is', 'destined', 'to', 'be', 'the', '21st', 'century',
+    "'s", 'new', '``', 'conan', '``', 'and', 'that', 'he', "'s", 'going', 
+    'to', 'make', 'a', 'splash', 'even', 'greater', 'than', 'arnold', 
+    'schwarzenegger', ',', 'jean-claud', 'van', 'damme', 'or', 'steven', 
+    'segal', '.'
+]
+Encoded: [
+         1   1138     15  10454      5     31      1   5034    590     10
+        51     29  18513     29      6     13     19     10    223      5
+       160      8  16807    152   1414     74   5819   6681      2 400001
+      1462  43708     47   4412  26985      3      0      0      0      0
+         0      0      0      0      0
+]
+Label: 1
+True length: 36
+
+### 2 ###
+Original: [
+    'the', 'gorgeously', 'elaborate', 'continuation', 'of', '``', 'the',
+    'lord', 'of', 'the', 'rings', '``', 'trilogy', 'is', 'so', 'huge', 
+    'that', 'a', 'column', 'of', 'words', 'can', 'not', 'adequately', 
+    'describe', 'co-writer/director', 'peter', 'jackson', "'s", 
+    'expanded', 'vision', 'of', 'j', '.', 'r', '.', 'r', '.', 'tolkien',
+    "'s", 'middle-earth', '.'
+]
+Encoded: [
+         1  78616   5135  10117      4     29      1   2371      4      1
+      6820     29  12305     15    101   1325     13      8   3236      4
+      1375     87     37  12424   4467 400001   1295   1755     10   2853
+      3139      4   6892      3   1912      3   1912      3  23463     10
+     55754      3      0      0      0
+]
+Label: 1
+True length: 42
+
+### 3 ###
+Original: [
+    'effective', 'but', 'too-tepid', 'biopic'
+]
+Encoded: [
+      2038     35 400001  34277      0      0      0      0      0      0
+         0      0      0      0      0      0      0      0      0      0
+         0      0      0      0      0      0      0      0      0      0
+         0      0      0      0      0      0      0      0      0      0
+         0      0      0      0      0
+]
+Label: 1
+True length: 4
+
+### 4 ###
+Original: [
+    'if', 'you', 'sometimes', 'like', 'to', 'go', 'to', 'the', 'movies', 
+    'to', 'have', 'fun', ',', 'wasabi', 'is', 'a', 'good', 'place', 'to', 
+    'start', '.'
+]
+Encoded: [ 
+        84     82   1072    118      5    243      5      1   2460      5 
+        34   2906      2  66408     15      8    220    242      5    466 
+         3      0      0      0      0      0      0      0      0      0 
+         0      0      0      0      0      0      0      0      0      0 
+         0      0      0      0      0
+]
+Label: 1
+True length: 21
+
+### 5 ###
+Original: [
+    'emerges', 'as', 'something', 'rare', ',', 'an', 'issue', 'movie', 
+    'that', "'s", 'so', 'honest', 'and', 'keenly', 'observed', 'that', 
+    'it', 'does', "n't", 'feel', 'like', 'one', '.'
+]
+Encoded: [
+     12398     20    646   2349      2     30    496   1006     13     10 
+       101   6082      6  23499   4583     13     21    261     71    999 
+       118     49      3      0      0      0      0      0      0      0 
+         0      0      0      0      0      0      0      0      0      0 
+         0      0      0      0      0
+]
+Label: 1
+True length: 23

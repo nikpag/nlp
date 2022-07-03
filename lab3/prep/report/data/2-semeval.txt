@@ -1,0 +1,65 @@
+1: [
+    '05', 'Beat', 'it', '-', 'Michael', 'Jackson', '-', 'Thriller', '(', 
+    '25th', 'Anniversary', 'Edition', ')', '[', 'HD', ']', 'http', ':', 
+    '//t.co/A4K2B86PBv'
+]
+
+2: [
+    'Jay', 'Z', 'joins', 'Instagram', 'with', 'nostalgic', 'tribute', 'to', 
+    'Michael', 'Jackson', ':', 'Jay', 'Z', 'apparently', 'joined', 
+    'Instagram', 'on', 'Saturday', 'and', '..', 'http', ':', 
+    '//t.co/Qj9I4eCvXy'
+]
+
+3: [
+    'Michael', 'Jackson', ':', 'Bad', '25th', 'Anniversary', 'Edition', 
+    '(', 'Picture', 'Vinyl', ')', ':', 'This', 'unique', 'picture', 
+    'disc', 'vinyl', 'includes', 'the', 'original', '1', 'http', ':', 
+    '//t.co/fKXhToAAuW'
+]
+
+4: [
+    'I', 'liked', 'a', '@', 'YouTube', 'video', 'http', ':', 
+    '//t.co/AaR3pjp2PI', 'One', 'Direction', 'singing', '``', 'Man', 
+    'in', 'the', 'Mirror', "''", 'by', 'Michael', 'Jackson', 'in', 
+    'Atlanta', ',', 'GA', '[', 'June', '26', ','
+]
+
+5: [
+    '18th', 'anniv', 'of', 'Princess', 'Diana', "'s", 'death', '.', 
+    'I', 'still', 'want', 'to', 'believe', 'she', 'is', 'living', 
+    'on', 'a', 'private', 'island', 'away', 'from', 'the', 'public', 
+    '.', 'With', 'Michael', 'Jackson', '.'
+]
+
+6: [
+    '@', 'oridaganjazz', 'The', '1st', 'time', 'I', 'heard', 
+    'Michael', 'Jackson', 'sing', 'was', 'in', 'Honolulu', ',', 'Hawaii', 
+    '@', 'a', 'restaurant', 'on', 'radio', '.', 'It', 'was', 'A.B.C', '.', 
+    'I', 'was', '13', '.', 'I', 'loved', 'it', '!'
+]
+
+7: [
+    "'Michael", 'Jackson', "'", 'appeared', 'on', 'Saturday', '29', 'at',
+    'the', '9th', 'place', 'in', 'the', 'Top20', 'of', 'Miami', "'s", 
+    'Trends', ':', 'http', ':', '//t.co/dXN2FWgUhb', '#', 'trndnl'
+]
+
+8: [
+    'Are', 'you', 'old', 'enough', 'to', 'remember', 'Michael', 'Jackson', 
+    'attending', 'the', 'Grammys', 'with', 'Brooke', 'Shields', 'and', 
+    'Webster', 'sat', 'on', 'his', 'lap', 'during', 'the', 'show', '?'
+]
+
+9: [
+    '@', 'etbowser', 'do', 'u', 'enjoy', 'his', '2nd', 'rate', 'Michael', 
+    'Jackson', 'bit', '?', 'Honest', 'ques', '.', 'Like', 'the', 'ca', 
+    "n't", 'feel', 'face', 'song', 'but', 'god', 'it', "'s", 'so', 
+    'obvious', 'they', 'want', 'MJ', '2.0'
+]
+
+10: [
+    'The', 'Weeknd', 'is', 'the', 'closest', 'thing', 'we', 'may', 'get',
+    'to', 'Michael', 'Jackson', 'for', 'a', 'long', 'time', '...', 
+    'especially', 'since', 'he', 'damn', 'near', 'mimics', 'everything'
+]

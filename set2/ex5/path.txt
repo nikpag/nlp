@@ -1,0 +1,61 @@
+60	59	ba	<eps>
+0
+1	0	cha	bacha	1.38629436
+2	1	ba	<eps>
+3	2	ba	daba	1.1451323
+4	3	da	<eps>
+5	4	da	dada	0.788457334
+6	5	da	<eps>
+7	6	cha	gacha	0.810930192
+8	7	ga	<eps>
+9	8	cha	bacha	1.38629436
+10	9	ba	<eps>
+11	10	ba	daba	1.1451323
+12	11	da	<eps>
+13	12	da	dada	0.788457334
+14	13	da	<eps>
+15	14	da	gada	1.50407743
+16	15	ga	<eps>
+17	16	da	dada	0.788457334
+18	17	da	<eps>
+19	18	cha	gacha	0.810930192
+20	19	ga	<eps>
+21	20	ga	baga	2.07944155
+22	21	ba	<eps>
+23	22	ba	chaba	1.87180221
+24	23	cha	<eps>
+25	24	cha	cha	1.93486035
+26	25	da	dada	0.788457334
+27	26	da	<eps>
+28	27	ba	baba	0.980829239
+29	28	ba	<eps>
+30	29	ba	chaba	1.87180221
+31	30	cha	<eps>
+32	31	ba	daba	1.1451323
+33	32	da	<eps>
+34	33	da	dada	0.788457334
+35	34	da	<eps>
+36	35	cha	gacha	0.810930192
+37	36	ga	<eps>
+38	37	cha	bacha	1.38629436
+39	38	ba	<eps>
+40	39	da	da	1.40876722
+41	40	ba	daba	1.1451323
+42	41	da	<eps>
+43	42	da	dada	0.788457334
+44	43	da	<eps>
+45	44	ga	daga	3.09104252
+46	45	da	<eps>
+47	46	da	chada	0.955511451
+48	47	cha	<eps>
+49	48	ga	gaga	1.50407743
+50	49	ga	<eps>
+51	50	ba	baba	0.980829239
+52	51	ba	<eps>
+53	52	cha	gacha	0.810930192
+54	53	ga	<eps>
+55	54	cha	dacha	2.39789534
+56	55	da	<eps>
+57	56	da	chada	0.955511451
+58	57	cha	<eps>
+59	58	ba	baba	0.980829239

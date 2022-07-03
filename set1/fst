@@ -1,0 +1,8 @@
+#! /usr/bin/env bash
+# Usage: bash fst
+
+files=$(ls *.fst)
+for file in $files; do
+    file=$(echo $file | cut -d "." -f1)
+    fstcompile --isymbols=syms --osymbols=syms --keep_state_numbering $file.fst $file.binfst && fstdraw --isymbols=syms --osymbols=syms --portrait $file.binfst | dot -Tpdf >$file-raw.pdf
+done

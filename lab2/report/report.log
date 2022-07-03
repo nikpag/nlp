@@ -1,0 +1,1292 @@
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2022.4.27)  18 MAY 2022 09:42
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**report.tex
+(./report.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-01-21>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count181
+\c@section=\count182
+\c@subsection=\count183
+\c@subsubsection=\count184
+\c@paragraph=\count185
+\c@subparagraph=\count186
+\c@figure=\count187
+\c@table=\count188
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(/home/nick/xelatex.tex
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 107.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2021/03/18 v5.0k Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+)
+(/usr/share/texlive/texmf-dist/tex/latex/placeins/placeins.sty
+Package: placeins 2005/04/18  v 2.2
+)
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count189
+\float@exts=\toks17
+\float@box=\box50
+\@float@everytoks=\toks18
+\@floatcapt=\box51
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2021/10/15 v2.17l AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen141
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen142
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2021/08/26 v2.02 operator names
+)
+\inf@bad=\count190
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count191
+\leftroot@=\count192
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count193
+\DOTSCASE@=\count194
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box52
+\strutbox@=\box53
+\big@size=\dimen143
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count195
+\c@MaxMatrixCols=\count196
+\dotsspace@=\muskip16
+\c@parentequation=\count197
+\dspbrk@lvl=\count198
+\tag@help=\toks20
+\row@=\count199
+\column@=\count266
+\maxfields@=\count267
+\andhelp@=\toks21
+\eqnshift@=\dimen144
+\alignsep@=\dimen145
+\tagshift@=\dimen146
+\tagwidth@=\dimen147
+\totwidth@=\dimen148
+\lineht@=\dimen149
+\@envbody=\toks22
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2938.
+LaTeX Info: Redefining \] on input line 2939.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count268
+\lst@gtempboxa=\box54
+\lst@token=\toks24
+\lst@length=\count269
+\lst@currlwidth=\dimen150
+\lst@column=\count270
+\lst@pos=\count271
+\lst@lostspace=\dimen151
+\lst@width=\dimen152
+\lst@newlines=\count272
+\lst@lineno=\count273
+\lst@maxwidth=\dimen153
+
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count274
+\lst@skipnumbers=\count275
+\lst@framebox=\box55
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: xetex.def on input line 227.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1368.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1370.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/extarrows/extarrows.sty
+Package: extarrows 2020/03/12 v1.2.0 Some extensible arrows
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2020-07-07 v1.5u LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks25
+\verbatim@line=\toks26
+\verbatim@in@stream=\read2
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/enumerate.sty
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks27
+)
+(/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip52
+\enit@outerparindent=\dimen154
+\enit@toks=\toks28
+\enit@inbox=\box56
+\enit@count@id=\count276
+\enitdp@description=\count277
+)
+(/usr/share/texlive/texmf-dist/tex/latex/eurosym/eurosym.sty
+Package: eurosym 1998/08/06 v1.1 European currency symbol ``Euro''
+\@eurobox=\box57
+)
+(/usr/share/texlive/texmf-dist/tex/latex/svg/svg.sty
+Package: svg 2020/11/26 v2.02k (include SVG pictures)
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrbase.sty
+Package: scrbase 2021/11/13 v3.35 KOMA-Script package (KOMA-Script-independent 
+basics and keyval usage)
+
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlfile.sty
+Package: scrlfile 2021/11/13 v3.35 KOMA-Script package (file load hooks)
+
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty
+Package: scrlfile-hook 2021/11/13 v3.35 KOMA-Script package (using LaTeX hooks)
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlogo.sty
+Package: scrlogo 2021/11/13 v3.35 KOMA-Script package (logo)
+)))
+Applying: [2021/05/01] Usage of raw or classic option list on input line 252.
+Already applied: [0000/00/00] Usage of raw or classic option list on input line
+ 368.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/trimspaces/trimspaces.sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/shellesc.sty
+Package: shellesc 2019/11/08 v1.0c unified shell escape interface for LaTeX
+Package shellesc Info: Restricted shell escape enabled on input line 77.
+)
+\c@svg@param@lastpage=\count278
+\svg@box=\box58
+\c@svg@param@currpage=\count279
+)
+(/usr/share/texlive/texmf-dist/tex/latex/transparent/transparent.sty
+Package: transparent 2019/11/29 v1.4 Transparency via pdfTeX's color stack (HO)
+
+
+
+Package transparent Warning: Loading aborted, because pdfTeX is not running in 
+PDF mode.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks29
+\pgfutil@tempdima=\dimen155
+\pgfutil@tempdimb=\dimen156
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.t
+ex)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box59
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks30
+\pgfkeys@temptoks=\toks31
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.t
+ex
+\pgfkeys@tmptoks=\toks32
+))
+\pgf@x=\dimen157
+\pgf@y=\dimen158
+\pgf@xa=\dimen159
+\pgf@ya=\dimen160
+\pgf@xb=\dimen161
+\pgf@yb=\dimen162
+\pgf@xc=\dimen163
+\pgf@yc=\dimen164
+\pgf@xd=\dimen165
+\pgf@yd=\dimen166
+\w@pgf@writea=\write3
+\r@pgf@reada=\read3
+\c@pgf@counta=\count280
+\c@pgf@countb=\count281
+\c@pgf@countc=\count282
+\c@pgf@countd=\count283
+\t@pgf@toka=\toks33
+\t@pgf@tokb=\toks34
+\t@pgf@tokc=\toks35
+\pgf@sys@id@count=\count284
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2021/05/15 v3.1.9a (3.1.9a)
+)
+Driver file for pgf: pgfsys-xetex.def
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-xetex.def
+File: pgfsys-xetex.def 2021/05/15 v3.1.9a (3.1.9a)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-dvipdfmx.def
+File: pgfsys-dvipdfmx.def 2021/05/15 v3.1.9a (3.1.9a)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.de
+f
+File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
+)
+\pgfsys@objnum=\count285
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.
+tex
+File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfsyssoftpath@smallbuffer@items=\count286
+\pgfsyssoftpath@bigbuffer@items=\count287
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.
+tex
+File: pgfsysprotocol.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)) (/usr/share/texlive/texmf-dist/tex/latex/varwidth/varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box60
+\sift@deathcycles=\count288
+\@vwid@loff=\dimen167
+\@vwid@roff=\dimen168
+)
+(/usr/share/texlive/texmf-dist/tex/latex/moreverb/moreverb.sty
+Package: moreverb 2008/06/03 v2.3a `more' verbatim facilities
+\tab@position=\count289
+\tab@size=\count290
+\listing@line=\count291
+)
+(/usr/share/texlive/texmf-dist/tex/latex/relsize/relsize.sty
+Package: relsize 2013/03/29 ver 4.1
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tabto-ltx/tabto.sty
+Package: tabto 2018/12/28  v 1.4  Another tabbing mechanism
+\CurrentLineWidth=\dimen169
+\TabPrevPos=\dimen170
+)
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count292
+\Gm@cntv=\count293
+\c@Gm@tempcnt=\count294
+\Gm@bindingoffset=\dimen171
+\Gm@wd@mp=\dimen172
+\Gm@odd@mp=\dimen173
+\Gm@even@mp=\dimen174
+\Gm@layoutwidth=\dimen175
+\Gm@layoutheight=\dimen176
+\Gm@layouthoffset=\dimen177
+\Gm@layoutvoffset=\dimen178
+\Gm@dimlist=\toks36
+)
+(/usr/share/texlive/texmf-dist/tex/generic/ulem/ulem.sty
+\UL@box=\box61
+\UL@hyphenbox=\box62
+\UL@skip=\skip53
+\UL@hook=\toks37
+\UL@height=\dimen179
+\UL@pe=\count295
+\UL@pixel=\dimen180
+\ULC@box=\box63
+Package: ulem 2019/11/18
+\ULdepth=\dimen181
+)
+(/usr/share/texlive/texmf-dist/tex/latex/units/units.sty
+Package: units 1998/08/04 v0.9b Typesetting units
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/units/nicefrac.sty
+Package: nicefrac 1998/08/04 v0.9b Nice fractions
+\L@UnitsRaiseDisplaystyle=\skip54
+\L@UnitsRaiseTextstyle=\skip55
+\L@UnitsRaiseScriptstyle=\skip56
+))
+(/usr/share/texlive/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
+Package: fancyvrb 2021/12/21 4.1b verbatim text (tvz,hv)
+\FV@CodeLineNo=\count296
+\FV@InFile=\read4
+\FV@TabBox=\box64
+\c@FancyVerbLine=\count297
+\FV@StepNumber=\count298
+\FV@OutFile=\write4
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2022-01-21 L3 programming layer (loader) 
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+File: l3backend-xetex.def 2022-01-12 L3 backend support: XeTeX
+
+(|extractbb --version)
+\c__kernel_sys_dvipdfmx_version_int=\count299
+\l__color_backend_stack_int=\count300
+\g__color_backend_stack_int=\count301
+\g__graphics_track_int=\count302
+\l__pdf_internal_box=\box65
+\g__pdf_backend_object_int=\count303
+\g__pdf_backend_annotation_int=\count304
+\g__pdf_backend_link_int=\count305
+))
+Package: xparse 2022-01-12 L3 Experimental document command parser
+)
+Package: fontspec 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count306
+\l__fontspec_language_int=\count307
+\l__fontspec_strnum_int=\count308
+\l__fontspec_tmp_int=\count309
+\l__fontspec_tmpa_int=\count310
+\l__fontspec_tmpb_int=\count311
+\l__fontspec_tmpc_int=\count312
+\l__fontspec_em_int=\count313
+\l__fontspec_emdef_int=\count314
+\l__fontspec_strong_int=\count315
+\l__fontspec_strongdef_int=\count316
+\l__fontspec_tmpa_dim=\dimen182
+\l__fontspec_tmpb_dim=\dimen183
+\l__fontspec_tmpc_dim=\dimen184
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2021-06-07 v7.00m Hypertext links for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+)
+\@linkdim=\dimen185
+\Hy@linkcounter=\count317
+\Hy@pagecounter=\count318
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2021-06-07 v7.00m Hyperref: PDFDocEncoding definition (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def
+File: hyperref-langpatches.def 2021-06-07 v7.00m Hyperref: patches for babel la
+nguages
+)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count319
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2021-06-07 v7.00m Hyperref: PDF Unicode definition (HO)
+)
+Package hyperref Info: Hyper figures OFF on input line 4192.
+Package hyperref Info: Link nesting OFF on input line 4197.
+Package hyperref Info: Hyper index ON on input line 4200.
+Package hyperref Info: Plain pages OFF on input line 4207.
+Package hyperref Info: Backreferencing OFF on input line 4212.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4445.
+\c@Hy@tempcnt=\count320
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4804.
+\XeTeXLinkMargin=\dimen186
+
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count321
+\Field@Width=\dimen187
+\Fld@charsize=\dimen188
+Package hyperref Info: Hyper figures OFF on input line 6076.
+Package hyperref Info: Link nesting OFF on input line 6081.
+Package hyperref Info: Hyper index ON on input line 6084.
+Package hyperref Info: backreferencing OFF on input line 6091.
+Package hyperref Info: Link coloring OFF on input line 6096.
+Package hyperref Info: Link coloring with OCG OFF on input line 6101.
+Package hyperref Info: PDF/A mode OFF on input line 6106.
+LaTeX Info: Redefining \ref on input line 6146.
+LaTeX Info: Redefining \pageref on input line 6150.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count322
+\c@Item=\count323
+\c@Hfootnote=\count324
+)
+Package hyperref Info: Driver (autodetected): hxetex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hxetex.def
+File: hxetex.def 2021-06-07 v7.00m Hyperref driver for XeTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+)
+\pdfm@box=\box66
+\c@Hy@AnnotLevel=\count325
+\HyField@AnnotCount=\count326
+\Fld@listcount=\count327
+\c@bookmark@seq@number=\count328
+
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip57
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 82.
+)
+
+Package fontspec Info: Font family 'MinionPro(0)' created for font 'Minion
+(fontspec)             Pro' with options [Ligatures=TeX].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Minion
+(fontspec)             Pro/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: <->"Minion
+(fontspec)             Pro/OT:script=latn;language=dflt;+smcp;mapping=tex-text;
+"
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Minion
+(fontspec)             Pro/B/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: <->"Minion
+(fontspec)             Pro/B/OT:script=latn;language=dflt;+smcp;mapping=tex-tex
+t;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"Minion
+(fontspec)             Pro/I/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->"Minion
+(fontspec)             Pro/I/OT:script=latn;language=dflt;+smcp;mapping=tex-tex
+t;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Minion
+(fontspec)             Pro/BI/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->"Minion
+(fontspec)             Pro/BI/OT:script=latn;language=dflt;+smcp;mapping=tex-te
+xt;"
+
+
+(./report.aux)
+\openout1 = `report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 2
+2.
+ (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+\c@lstlisting=\count329
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 452.9679pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 700.50687pt, 72.26999pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=452.9679pt
+* \textheight=700.50687pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
+(fontspec)             this).
+
+\symlegacymaths=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 22.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 22.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 22.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 22.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 22.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 22.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 22.
+LaTeX Font Info:    Redeclaring math accent \check on input line 22.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 22.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 22.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 22.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 22.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 22.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 22.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 22.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 22.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 22.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 22.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 22.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 22.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 22.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 22.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 22.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 22.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 22.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/MinionPro(0)/m/n on input line 22.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 22.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/MinionPro(0)/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/MinionPro(0)/m/n --> TU/MinionPro(0)/m/n on input li
+ne 22.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/MinionPro(0)/m/it on input line 22.
+
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/MinionPro(0)/b/n on input line 22.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 22.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/MinionPro(0)/m/n --> TU/MinionPro(0)/b/n on input li
+ne 22.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/MinionPro(0)/b/it on input line 22
+.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 22.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 22.
+Package hyperref Info: Link coloring ON on input line 22.
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count330
+)
+LaTeX Info: Redefining \ref on input line 22.
+LaTeX Info: Redefining \pageref on input line 22.
+LaTeX Info: Redefining \nameref on input line 22.
+
+(./report.out) (./report.out)
+\@outlinefile=\write5
+\openout5 = `report.out'.
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 26.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 26.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Overfull \hbox (4.34987pt too wide) in paragraph at lines 28--29
+\TU/MinionPro(0)/m/n/12 να εκτελεστούν σε ένα καινούργιο environment με την έκδ
+οση αυτή, για να μην υπάρξουν θέματα
+ []
+
+
+Overfull \hbox (15.60985pt too wide) in paragraph at lines 40--41
+[][]\TU/lmtt/m/n/12 usc/ []\TU/MinionPro(0)/m/n/12 (επομένως η εντολή [][]\TU/l
+mtt/m/n/12 pwd []\TU/MinionPro(0)/m/n/12 πρέπει να εκτυπώνει [][]\TU/lmtt/m/n/1
+2 path/to/usc/[]\TU/MinionPro(0)/m/n/12 , αλλιώς θα υπάρξουν σφάλματα
+ []
+
+
+Overfull \hbox (33.56987pt too wide) in paragraph at lines 42--43
+[]\TU/MinionPro(0)/m/n/12 Επιπλέον, η default συμπεριφορά του [][]\TU/lmtt/m/n/
+12 main.sh []\TU/MinionPro(0)/m/n/12 είναι να ξανακατεβάζει τόσο τα δεδομένα απ
+ό το Google
+ []
+
+
+Overfull \hbox (23.87119pt too wide) in paragraph at lines 42--43
+\TU/MinionPro(0)/m/n/12 Drive link, όσο και τα απαραίτητα αρχεία από το [][]slp
+-ntua/slp-labs[][]. Προτείνουμε να διατηρήσετε αυτή
+ []
+
+
+Overfull \hbox (9.83119pt too wide) in paragraph at lines 42--43
+\TU/MinionPro(0)/m/n/12 τη συμπεριφορά. Τα αρχεία κάνουν λίγα δευτερόλεπτα για 
+να κατέβουν, και έτσι εξασφαλίζεται ότι
+ []
+
+
+Overfull \hbox (1.77145pt too wide) in paragraph at lines 44--45
+[]\TU/MinionPro(0)/m/n/12 Τέλος, έχουμε γράψει κάποια convenience scripts, τα ο
+ποία χρησιμοποιούν τα παραπάνω αρχεία-
+ []
+
+[1
+
+]
+Overfull \hbox (6.65625pt too wide) in paragraph at lines 60--61
+\TU/MinionPro(0)/m/n/12 Στην αναγνώριση φωνής ένας από τους πιο γνωστούς τρόπου
+ς για την εξαγωγή χαρακτηριστικών
+ []
+
+
+Overfull \hbox (25.95757pt too wide) in paragraph at lines 60--61
+\TU/MinionPro(0)/m/n/12 και την αναπαράσταση τους είναι τα MFCCs. Τα Mel Freque
+ncy Cepstral Coefficients είναι βασισμένα
+ []
+
+
+Overfull \hbox (16.07622pt too wide) in paragraph at lines 60--61
+\TU/MinionPro(0)/m/n/12 στο Cepstrum (αντίστροφος μετασχηματισμός Fourier του λ
+ογαρίθμου του εκτιμώμενου σήματος).
+ []
+
+
+Overfull \hbox (10.73492pt too wide) in paragraph at lines 63--64
+[]\TU/MinionPro(0)/b/n/12 Pre-Emphasis: \TU/MinionPro(0)/m/n/12 Ο σκοπός σε αυτ
+ό το βήμα είναι η ενίσχυση των υψηλών συχνοτήτων, επειδή
+ []
+
+
+Overfull \hbox (24.44716pt too wide) in paragraph at lines 63--64
+\TU/MinionPro(0)/m/n/12 τις χαμηλές. Αυτό έχει αποτέλεσμα να εντοπίζονται πιο ε
+ύκολα, και έτσι βελτιώνεται η ακρίβεια
+ []
+
+
+Overfull \hbox (13.09491pt too wide) in paragraph at lines 65--66
+[]\TU/MinionPro(0)/b/n/12 Framing and Windowing: \TU/MinionPro(0)/m/n/12 Η ομιλ
+ία είναι ένα μη στατικό δείγμα, επομένως αν υπολογίσουμε
+ []
+
+
+Overfull \hbox (48.64423pt too wide) in paragraph at lines 65--66
+\TU/MinionPro(0)/m/n/12 τον μετασχηματισμό Fourier σε όλο το σήμα δεν μπορούμε 
+να εξάγουμε φασματικά χαρακτηριστικά,
+ []
+
+
+Overfull \hbox (3.17116pt too wide) in paragraph at lines 65--66
+\TU/MinionPro(0)/m/n/12 αφού χάνεται μεγάλη πληροφορία του φάσματος. Συνεπώς, ε
+πιλέγουμε ένα μικρό χρονικό
+ []
+
+
+Overfull \hbox (65.53514pt too wide) in paragraph at lines 65--66
+\TU/MinionPro(0)/m/n/12 παράθυρο, στη διάρκεια του οποίου εφαρμόζουμε τη συνάρτ
+ηση παραθύρου. Συνήθως χρησιμοποιούμε
+ []
+
+
+Overfull \hbox (63.40987pt too wide) in paragraph at lines 65--66
+\TU/MinionPro(0)/m/n/12 το παράθυρο Hamming, το οποίο -όπως φαίνεται στο παρακά
+τω σχήμα- έχει μια σταθερή ομαλοποίηση
+ []
+
+File: hamming.png Graphic file (type bmp)
+<hamming.png>
+
+Overfull \hbox (23.9422pt too wide) in paragraph at lines 73--74
+[]\TU/MinionPro(0)/b/n/12 Fourier-Transform: \TU/MinionPro(0)/m/n/12 Έπειτα υλο
+ποιούμε τον Διακριτό Μετασχηματισμό Fourier μέσω του FFT-
+ []
+
+
+Overfull \hbox (31.27711pt too wide) in paragraph at lines 73--74
+\OML/cmm/m/it/12 N$ \TU/MinionPro(0)/m/n/12 σημείων (σε όλα τα παράθυρα πλήθους
+ $\OML/cmm/m/it/12 N$\TU/MinionPro(0)/m/n/12 ) και παίρνουμε τον Short-Time-Fou
+rier-Τransform
+ []
+
+[2]
+Overfull \hbox (5.08931pt too wide) in paragraph at lines 75--76
+[]\TU/MinionPro(0)/b/n/12 Mel-filter-bank: \TU/MinionPro(0)/m/n/12 Ο τρόπος που
+ τα αυτιά μας αντιλαμβάνονται τον ήχο δεν είναι γραμμικός,
+ []
+
+
+Overfull \hbox (2.46153pt too wide) in paragraph at lines 75--76
+\TU/MinionPro(0)/m/n/12 κλίμακα Mel μετατρέπει τις συχνότητες λαμβάνοντας υπόψι
+ν αυτή την ιδιαιτερότητα. Έχει
+ []
+
+
+Overfull \hbox (12.4682pt too wide) in paragraph at lines 75--76
+\TU/MinionPro(0)/m/n/12 παρατηρηθεί ότι η εφαρμογή της στην εξαγωγή χαρακτηριστ
+ικών βελτιώνει την αναγνώριση
+ []
+
+
+Overfull \hbox (62.47351pt too wide) in paragraph at lines 77--78
+\TU/MinionPro(0)/m/n/12 δεδομένων ως άθροισμα συνημιτόνων διαφορετικών συχνοτήτ
+ων. Σε αντίθεση με τον μετασχηματισμό
+ []
+
+
+Overfull \hbox (26.17142pt too wide) in paragraph at lines 77--78
+\TU/MinionPro(0)/m/n/12 Fourier, δεν έχει φανταστικές συνιστώσες, με αποτέλεσμα
+ να είναι πιο γρήγορος ο υπολογισμός
+ []
+
+
+Overfull \hbox (30.3192pt too wide) in paragraph at lines 77--78
+\TU/MinionPro(0)/m/n/12 του. Παρά το γεγονός ότι έχει μόνο πραγματικές τιμές, έ
+χει αποδειχθεί ότι δεν χάνει πληροφορία
+ []
+
+
+Overfull \hbox (21.68825pt too wide) in paragraph at lines 77--78
+\TU/MinionPro(0)/m/n/12 Mel παίρνουμε 13 cepstral συντελεστές deltas και deltas
+-deltas (πρώτη και δεύτερη παράγωγος
+ []
+
+File: mfccs.png Graphic file (type bmp)
+<mfccs.png>
+
+Overfull \hbox (2.14026pt too wide) in paragraph at lines 90--91
+\TU/MinionPro(0)/m/n/12 Για να γίνει η διάκριση ανάμεσα σε λέξεις και προτάσεις
+ που είναι ομόηχες χρησιμοποιεί διάφορες
+ []
+
+
+Overfull \hbox (17.58023pt too wide) in paragraph at lines 90--91
+\TU/MinionPro(0)/m/n/12 πιθανοτικές προσεγγίσεις και επιλέγει τον συνδυασμό λέξ
+εων που είναι πιο πιθανός σε μια πρόταση.
+ []
+
+[3]
+Overfull \hbox (20.68025pt too wide) in paragraph at lines 100--101
+[]\TU/MinionPro(0)/b/n/12 Unigram και Bigram\TU/MinionPro(0)/m/n/12 : Αποτελούν
+ ειδικές περιπτώσεις του $\OML/cmm/m/it/12 n$\TU/MinionPro(0)/m/n/12 -gram με $
+\OML/cmm/m/it/12 n \OT1/cmr/m/n/12 = 1$ \TU/MinionPro(0)/m/n/12 και $\OML/cmm/m
+/it/12 n \OT1/cmr/m/n/12 = 2$ \TU/MinionPro(0)/m/n/12 και είναι
+ []
+
+
+Overfull \hbox (17.83621pt too wide) in paragraph at lines 100--101
+\TU/MinionPro(0)/m/n/12 προηγούμενη κατάσταση ενώ στο unigram από την a-priori 
+πιθανότητα εμφάνισης της λέξης. 
+ []
+
+
+Overfull \hbox (37.37756pt too wide) in paragraph at lines 117--118
+\TU/MinionPro(0)/m/n/12 Τα φωνητικά μοντέλα αποτελούν αναπαραστάσεις του σήματο
+ς σε φωνήματα. Με βάση τις Γκαουσιανές
+ []
+
+
+Overfull \hbox (3.76984pt too wide) in paragraph at lines 117--118
+\TU/MinionPro(0)/m/n/12 μίξεις, παράγονται ορισμένα γνωρίσματα τα οποία αποτελο
+ύν τα χαρακτηριστικά του φωνητικού
+ []
+
+
+Overfull \hbox (33.09917pt too wide) in paragraph at lines 117--118
+\TU/MinionPro(0)/m/n/12 μοντέλου. Στην εκπαίδευση, κάθε πρόταση διασπάται σε επ
+ιμέρους λέξεις και κάθε λέξη στα αντίστοιχα
+ []
+
+
+Overfull \hbox (35.38316pt too wide) in paragraph at lines 117--118
+\TU/MinionPro(0)/m/n/12 φωνήματα, και έτσι δημιουργούνται οι αναπαραστάσεις. Επ
+ομένως γίνεται η εκτίμηση των παραμέτρων
+ []
+
+
+Overfull \hbox (26.30824pt too wide) in paragraph at lines 117--118
+\TU/MinionPro(0)/m/n/12 μεταξύ των καταστάσεων του μοντέλου και δημιουργείται έ
+νας πίνακας μεταβάσεων κάθε φωνήματος
+ []
+
+
+Overfull \hbox (13.38956pt too wide) in paragraph at lines 117--118
+\TU/MinionPro(0)/m/n/12 και οι πιθανότητες των παρατηρήσεων που αποτελούν τα Hi
+dden Markov Models (HMMs). Τέλος,
+ []
+
+
+Overfull \hbox (8.81223pt too wide) in paragraph at lines 117--118
+\TU/MinionPro(0)/m/n/12 με την υλοποίηση του αλγορίθμου forward-backward γίνετα
+ι η εκτίμηση για το ποια είναι η πιθανή
+ []
+
+File: hmm.png Graphic file (type bmp)
+<hmm.png>
+[4]
+Overfull \hbox (7.8659pt too wide) in paragraph at lines 134--135
+\TU/MinionPro(0)/m/n/12 Με χρήση του [][]\TU/lmtt/m/n/12 download.sh[]\TU/Minio
+nPro(0)/m/n/12 , κατεβάζουμε τα δεδομένα από το Google Drive link που μας δίνετ
+αι. 
+ []
+
+
+Overfull \hbox (33.99617pt too wide) in paragraph at lines 142--143
+[]\TU/MinionPro(0)/m/n/12 Δημιουργούμε τον φάκελο [][]\TU/lmtt/m/n/12 data []\T
+U/MinionPro(0)/m/n/12 και τους υποφακέλους [][]\TU/lmtt/m/n/12 data/train, data
+/dev, data/test[]\TU/MinionPro(0)/m/n/12 . 
+ []
+
+[5]
+Overfull \hbox (28.2152pt too wide) in paragraph at lines 164--165
+\TU/MinionPro(0)/m/n/12 Από τη διαδικασία [][]\TU/lmtt/m/n/12 wsj/ []\TU/Minion
+Pro(0)/m/n/12 παίρνουμε τα αρχεία [][]\TU/lmtt/m/n/12 path.sh []\TU/MinionPro(0
+)/m/n/12 και [][]\TU/lmtt/m/n/12 cmd.sh[]\TU/MinionPro(0)/m/n/12 . Στο [][]\TU/
+lmtt/m/n/12 path.sh[]\TU/MinionPro(0)/m/n/12 , θέτουμε κατάλληλα
+ []
+
+
+Overfull \hbox (11.21928pt too wide) in paragraph at lines 164--165
+\TU/MinionPro(0)/m/n/12 τη μεταβλητή [][]\TU/lmtt/m/n/12 KALDI_ROOT []\TU/Minio
+nPro(0)/m/n/12 και στο [][]\TU/lmtt/m/n/12 cmd.sh []\TU/MinionPro(0)/m/n/12 θέτ
+ουμε τις μεταβλητές [][]\TU/lmtt/m/n/12 train_cmd, decode_cmd []\TU/MinionPro(0
+)/m/n/12 και
+ []
+
+
+Overfull \hbox (0.20988pt too wide) in paragraph at lines 170--171
+\TU/MinionPro(0)/m/n/12 Δημιουργούμε τον φάκελο [][]\TU/lmtt/m/n/12 local[]\TU/
+MinionPro(0)/m/n/12 , και μέσα σ’αυτόν ένα soft link με όνομα [][]\TU/lmtt/m/n/
+12 score.sh []\TU/MinionPro(0)/m/n/12 που δείχνει
+ []
+
+[6]
+Overfull \hbox (1.62581pt too wide) in paragraph at lines 190--191
+[][][]\TU/lmtt/m/n/12 silence_phones.txt []\TU/MinionPro(0)/m/n/12 και [][]\TU/
+lmtt/m/n/12 optional_silence.txt[]\TU/MinionPro(0)/m/n/12 , που περιέχουν μόνο 
+το φώνημα της
+ []
+
+
+Overfull \hbox (7.59221pt too wide) in paragraph at lines 192--193
+[]\TU/MinionPro(0)/m/n/12 Το [][]\TU/lmtt/m/n/12 nonsilence_phones.txt []\TU/Mi
+nionPro(0)/m/n/12 το οποίο περιέχει όλα τα υπόλοιπα φωνήματα ταξινομημένα,
+ []
+
+
+Overfull \hbox (1.54713pt too wide) in paragraph at lines 202--203
+\TU/MinionPro(0)/m/n/12 μοντέλου. Συγκεκριμένα, θα χρησιμοποιήσουμε την εντολή 
+[][]\TU/lmtt/m/n/12 build-lm.sh []\TU/MinionPro(0)/m/n/12 του πακέτου [][]\TU/l
+mtt/m/n/12 IRSTLM[]\TU/MinionPro(0)/m/n/12 .
+ []
+
+
+Overfull \hbox (21.37518pt too wide) in paragraph at lines 202--203
+[][]\TU/lmtt/m/n/12 path.sh []\TU/MinionPro(0)/m/n/12 ώστε να γίνει διαθέσιμη η
+ εντολή [][]\TU/lmtt/m/n/12 build-lm.sh[]\TU/MinionPro(0)/m/n/12 , και ύστερα τ
+ην καλεί. Δημιουργούμε τόσο
+ []
+
+
+Overfull \hbox (20.01624pt too wide) in paragraph at lines 205--206
+\TU/MinionPro(0)/m/n/12 Μέσα στον φάκελο [][]\TU/lmtt/m/n/12 data/local/nist_lm
+ []\TU/MinionPro(0)/m/n/12 αποθηκεύουμε το compiled γλωσσικό μοντέλο σε μορφή
+ []
+
+
+Overfull \hbox (46.15918pt too wide) in paragraph at lines 205--206
+\TU/MinionPro(0)/m/n/12 source το [][]\TU/lmtt/m/n/12 path.sh []\TU/MinionPro(0
+)/m/n/12 ώστε να γίνει διαθέσιμη η εντολή [][]\TU/lmtt/m/n/12 compile-lm.sh[]\T
+U/MinionPro(0)/m/n/12 , και ύστερα την καλεί. Προκύπτουν
+ []
+
+
+Overfull \hbox (29.5362pt too wide) in paragraph at lines 205--206
+\TU/MinionPro(0)/m/n/12 τα αρχεία [][]\TU/lmtt/m/n/12 lm_phone_ug.arpa.gz []\TU
+/MinionPro(0)/m/n/12 (unigram μοντέλο) και [][]\TU/lmtt/m/n/12 lm_phone_bg.arpa
+.gz []\TU/MinionPro(0)/m/n/12 (bigram μοντέλο). 
+ []
+
+[7]
+Overfull \hbox (19.23817pt too wide) in paragraph at lines 219--219
+[][]\TU/MinionPro(0)/b/n/12 Ερώτημα 1: Για τα γλωσσικά μοντέλα που δημιουργήσατ
+ε υπολογίστε το perplexity στο validation
+ []
+
+
+Overfull \hbox (37.36559pt too wide) in paragraph at lines 221--222
+\TU/MinionPro(0)/m/n/12 ένα δείγμα και δείχνει το πόσο περιπλέκεται το μοντέλο 
+μας (όσο μικρότερο τόσο το καλύτερο). Έχουμε: 
+ []
+
+
+Overfull \hbox (1.89224pt too wide) in paragraph at lines 236--237
+\TU/MinionPro(0)/m/n/12 Με χρήση του [][]\TU/lmtt/m/n/12 4.3.py []\TU/MinionPro
+(0)/m/n/12 - το οποίο καλεί τις εντολές [][]\TU/lmtt/m/n/12 make_fcc.sh []\TU/M
+inionPro(0)/m/n/12 και [][]\TU/lmtt/m/n/12 compute_cmvn_stats.sh
+ []
+
+
+Overfull \hbox (3.15819pt too wide) in paragraph at lines 238--238
+[][]\TU/MinionPro(0)/b/n/12 Ερώτημα 2: Με τη δεύτερη εντολή πραγματοποιείται το
+ λεγόμενο Cepstral Mean and Variance
+ []
+
+
+Overfull \hbox (42.81935pt too wide) in paragraph at lines 239--241
+\TU/MinionPro(0)/m/n/12 To CMVN είναι μία υπολογιστικά αποδοτική τεχνική κανονι
+κοποίησης του σήματος που χρησιμοποιείται
+ []
+
+
+Overfull \hbox (12.74953pt too wide) in paragraph at lines 239--241
+\TU/MinionPro(0)/m/n/12 η βέλτιστη εξαγωγή χαρακτηριστικών. Αυτό επιτυγχάνεται 
+με την κανονικοποίηση της μέσης τιμής
+ []
+
+
+Overfull \hbox (31.06255pt too wide) in paragraph at lines 239--241
+\TU/MinionPro(0)/m/n/12 και της διασποράς στις τιμές $\OT1/cmr/m/n/12 0$ \TU/Mi
+nionPro(0)/m/n/12 και $\OT1/cmr/m/n/12 1$ \TU/MinionPro(0)/m/n/12 αντίστοιχα. Η
+ κανονικοποίηση αυτή επιτυγχάνει την ομαλοποίηση
+ []
+
+
+Overfull \hbox (14.04022pt too wide) in paragraph at lines 239--241
+\TU/MinionPro(0)/m/n/12 μπορεί να προκαλέσουν μεγάλο variance με αποτέλεσμα λαν
+θασμένη αναγνώριση του φωνήματος. 
+ []
+
+
+Overfull \hbox (41.78493pt too wide) in paragraph at lines 275--276
+[]\TU/MinionPro(0)/m/n/12 Η διάρκεια βρίσκεται στο αρχείο [][]\TU/lmtt/m/n/12 d
+ata/train/utt2dur[]\TU/MinionPro(0)/m/n/12 , το frame shift στο [][]\TU/lmtt/m/
+n/12 data/train/frame_shift[]\TU/MinionPro(0)/m/n/12 ,
+ []
+
+
+Overfull \hbox (1.15227pt too wide) in paragraph at lines 275--276
+\TU/MinionPro(0)/m/n/12 ενώ 13 είναι το πλήθος των συντελεστών του Mel-Frequenc
+y Cepstrum που κρατάμε κάθε φορά. 
+ []
+
+[8]
+Overfull \hbox (1.97128pt too wide) in paragraph at lines 282--283
+\TU/MinionPro(0)/m/n/12 Με την εντολή [][]\TU/lmtt/m/n/12 steps/train_mono.sh [
+]\TU/MinionPro(0)/m/n/12 εκπαιδεύουμε ένα monophone GMM-HMM ακουστικό
+ []
+
+
+Overfull \hbox (39.2082pt too wide) in paragraph at lines 322--323
+\TU/MinionPro(0)/m/n/12 Κάνουμε alignment των φωνημάτων χρησιμοποιώντας το mono
+phone μοντέλο ([][]\TU/lmtt/m/n/12 steps/align_si.sh[]\TU/MinionPro(0)/m/n/12 )
+,
+ []
+
+
+Overfull \hbox (9.6002pt too wide) in paragraph at lines 322--323
+\TU/MinionPro(0)/m/n/12 και με βάση αυτά τα alignments εκπαιδεύουμε ένα triphon
+e μοντέλο ([][]\TU/lmtt/m/n/12 steps/train_deltas.sh[]\TU/MinionPro(0)/m/n/12 )
+.
+ []
+
+[9]
+Overfull \hbox (4.19815pt too wide) in paragraph at lines 346--346
+[][]\TU/MinionPro(0)/b/n/12 Ερώτημα 4: Εξηγήστε τη δομή ενός ακουστικού μοντέλο
+υ GMM-HMM. Τι σκοπό εξυπηρετούν
+ []
+
+
+Overfull \hbox (2.22285pt too wide) in paragraph at lines 346--346
+\TU/MinionPro(0)/b/n/12 τα μαρκοβιανά μοντέλα στη συγκεκριμένη περίπτωση και τι
+ τα μίγματα γκαουσιανών; Με ποιο
+ []
+
+
+Overfull \hbox (28.00824pt too wide) in paragraph at lines 348--349
+\TU/MinionPro(0)/m/n/12 Τα GMMs είναι ένας τρόπος να προσδιοριστούν και να ομαδ
+οποιηθούν οι καταστάσεις του αυτόματου
+ []
+
+
+Overfull \hbox (0.98158pt too wide) in paragraph at lines 348--349
+\TU/MinionPro(0)/m/n/12 σε κατηγορίες με βάση την πιθανότητα ενός φωνήματος να 
+βρίσκεται σε μία λέξη. Αν το μοντέλο
+ []
+
+
+Overfull \hbox (21.81783pt too wide) in paragraph at lines 348--349
+\TU/MinionPro(0)/m/n/12 μας χρησιμοποιούσε μόνο Gaussian-Mixture-Model, αυτό θα
+ σήμαινε ότι θα κατηγοριοποιούσε κάθε
+ []
+
+
+Overfull \hbox (14.78185pt too wide) in paragraph at lines 348--349
+\TU/MinionPro(0)/m/n/12 αν ταιριάζει κάποια πρόβλεψη στην εκάστοτε λέξη η πρότα
+ση, προκειμένου να ελαχιστοποιήσει την
+ []
+
+
+Overfull \hbox (8.98718pt too wide) in paragraph at lines 348--349
+\TU/MinionPro(0)/m/n/12 πιθανότητα λάθους. Γι’ αυτό χρησιμοποιεί και τα HMMs, σ
+τατιστικά μοντέλα τα οποία υποθέτουν
+ []
+
+
+Overfull \hbox (16.01782pt too wide) in paragraph at lines 348--349
+\TU/MinionPro(0)/m/n/12 κρυφές καταστάσεις (τοποθέτηση γλώσσας, ποια συντακτική
+ θέση έχει η λέξη στην οποία βρίσκεται
+ []
+
+
+Overfull \hbox (14.02875pt too wide) in paragraph at lines 348--349
+\TU/MinionPro(0)/m/n/12 το φώνημα, πιθανότητες μετάβασης από μία ακολουθία $\OM
+L/cmm/m/it/12 N$ \TU/MinionPro(0)/m/n/12 φωνημάτων σε ένα άλλο). Ο τρόπος που
+ []
+
+
+Overfull \hbox (48.17381pt too wide) in paragraph at lines 348--349
+\TU/MinionPro(0)/m/n/12 γίνεται η εκπαίδευση είναι με μια ειδική κατηγορία του 
+Expectation-Maximization, τον forward-backward,
+ []
+
+
+Overfull \hbox (44.22025pt too wide) in paragraph at lines 348--349
+\TU/MinionPro(0)/m/n/12 ο οποίος μας επιτρέπει να υπολογίσουμε την πλήρη υπό συ
+νθήκη πιθανοφάνεια μιας σειράς καταστάσεων,
+ []
+
+
+Overfull \hbox (5.26424pt too wide) in paragraph at lines 348--349
+\TU/MinionPro(0)/m/n/12 διασπορά των δεδομένων και έπειτα τις ξανά υπολογίζει ε
+παναληπτικά με βάση τις προηγούμενες
+ []
+
+
+Overfull \hbox (1.33383pt too wide) in paragraph at lines 348--349
+\TU/MinionPro(0)/m/n/12 τιμές και τις καταστάσεις μετάβασης, οπότε μεγαλώνει η 
+πιθανοφάνεια και συγκλίνει σε μία τιμή.
+ []
+
+
+Overfull \hbox (7.95421pt too wide) in paragraph at lines 350--350
+[][]\TU/MinionPro(0)/b/n/12 Ερώτημα 5: Γράψτε πώς υπολογίζεται η a posteriori π
+ιθανότητα σύμφωνα με τον τύπο του Bayes
+ []
+
+
+Overfull \hbox (36.0703pt too wide) in paragraph at lines 350--350
+\TU/MinionPro(0)/b/n/12 για το πρόβλημα της αναγνώρισης φωνής. Συγκεκριμένα, πώ
+ς βρίσκεται η πιο πιθανή λέξη (ή φώνημα
+ []
+
+
+Overfull \hbox (10.18025pt too wide) in paragraph at lines 352--353
+\TU/MinionPro(0)/m/n/12 Το Μπεϋζιανό μοντέλο για την εύρεση πιθανότητας ενός φω
+νήματος είναι με βάση την a posteriori
+ []
+
+
+Overfull \hbox (5.64021pt too wide) in paragraph at lines 352--353
+\TU/MinionPro(0)/m/n/12 για κάθε πιθανό φώνημα δεδομένης μια ακουλουθίας λέξεων
+ και φωνημάτων (χαρακτηριστικών). 
+ []
+
+[10]
+Missing character: There is no Ο ("39F) in font cmmi12!
+
+Overfull \hbox (25.92465pt too wide) in paragraph at lines 361--362
+[]$\OML/cmm/m/it/12 P\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 X\OMS/cmsy/m/n/12 j\OML/
+cmm/m/it/12 W\OT1/cmr/m/n/12 )$ \TU/MinionPro(0)/m/n/12 η πιθανότητα ανίχνευσης
+ χαρακτηριστικών $$ δεδομένου του φωνήματος $\OML/cmm/m/it/12 W[]$ \TU/MinionPr
+o(0)/m/n/12 επομένως
+ []
+
+
+Overfull \hbox (6.54137pt too wide) in paragraph at lines 362--363
+[]$\OML/cmm/m/it/12 P\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 W\OT1/cmr/m/n/12 )$ \TU/
+MinionPro(0)/m/n/12 η a-priori που είναι η πιθανότητα εμφάνισης των χαρακτηριστ
+ικών(language model) 
+ []
+
+
+Overfull \hbox (5.19443pt too wide) in paragraph at lines 378--379
+\TU/MinionPro(0)/m/n/12 O γράφος HCLG είναι αναπτυγμένο γράφημα αποκωδικοποίηση
+ς που αναπαριστά τον αποδοχέα
+ []
+
+
+Overfull \hbox (5.59679pt too wide) in paragraph at lines 378--379
+\TU/MinionPro(0)/m/n/12 γραμματικής, το λεξικό φωνημάτων, τα ΗΜΜs και τα contex
+t-dependency. To output είναι ένα fst
+ []
+
+[11] (./report.aux)
+Package rerunfilecheck Info: File `report.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+ ) 
+Here is how much of TeX's memory you used:
+ 17305 strings out of 478190
+ 337293 string characters out of 5854813
+ 711625 words of memory out of 5000000
+ 37586 multiletter control sequences out of 15000+600000
+ 477169 words of font info for 84 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 99i,12n,95p,1349b,504s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on report.pdf (11 pages).
